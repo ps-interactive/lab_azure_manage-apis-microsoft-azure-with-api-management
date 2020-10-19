@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Globomantics.TrafficInfo.Api", "Globomantics.TrafficInfo.Api.csproj", "{A95BED1E-D921-4C1F-83FE-FBDBC8008814}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7134E7A1-F38C-47E1-AB34-803EDBCBCB33}"
+	ProjectSection(SolutionItems) = preProject
+		installation.sh = installation.sh
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A95BED1E-D921-4C1F-83FE-FBDBC8008814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95BED1E-D921-4C1F-83FE-FBDBC8008814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95BED1E-D921-4C1F-83FE-FBDBC8008814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95BED1E-D921-4C1F-83FE-FBDBC8008814}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {950CF8ED-2949-4F53-A171-430433A109D1}
+	EndGlobalSection
+EndGlobal
